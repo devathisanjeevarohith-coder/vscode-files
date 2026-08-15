@@ -1,0 +1,9 @@
+//          Big O Notation
+//  "How code slows as data grows"
+// 1. Describes the performance of an algorithm as the amount of data increases
+// 2. Machine independent (# of steps to completion)
+// 3. Ignore smaller operations  0(n+1) --> 0(n)
+// Example: O(1) ; O(n) ; O(log n) ; O(n^2)
+// n = amount of data (its Like variable x)
+// O(n) --> Linear time
+// O(1) --> constant time

@@ -1,0 +1,16 @@
+{
+  "files.encoding": "utf8",
+  "files.endOfLine": "lf",
+  "git.enabled": true,
+  "git.path": "C:\\Program Files\\Git\\cmd\\git.exe",
+  "git.autorefresh": true,
+  "git.openRepositoryInParentFolders": "always",
+  "git.autoRepositoryDetection": "subFolders",
+  "[python]": {
+    "files.encoding": "utf8",
+    "editor.defaultFormatter": "ms-python.python",
+    "editor.formatOnSave": true
+  },
+  "python.terminal.executeInFileDir": true,
+  "python.REPL.enableREPLSmartSend": false
+}
