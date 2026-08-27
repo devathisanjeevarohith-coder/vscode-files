@@ -1,0 +1,7 @@
+.vscode/
+*.class
+__pycache__/
+*.pyc
+.idea/
+out/
+
